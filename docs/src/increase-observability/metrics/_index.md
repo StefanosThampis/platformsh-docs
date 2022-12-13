@@ -102,11 +102,11 @@ Measurements are taken for each metric every 1 minute.
 You can select a time frame over which to see these measurements for the entire **Metrics** view.
 In the primary three views, averages are shown over larger intervals.
 
-| View                                                                  | Time between measurements                     | Example                      |
-| :-------------------------------------------------------------------- | :-------------------------------------------- | :--------------------------- |
-| The last 15 minutes (*15m*)                                           | 1 minute                                      | 10:00, 10:01, 10:02 |
-| The last hour (*1hr*)                                                 | 1 minute                                      | 10:00, 10:01, 10:02          |
-| The last 24 hours (*24hr*) for Dedicated and 8 hours (*8hr*) for Grid | 20 minutes for Dedicated, 10 minutes for Grid | 10:00, 10:20, 10:40, 11:00   |
+| View                        | Time between measurements | Example                    |
+| :-------------------------- | :------------------------ | :------------------------- |
+| The last 15 minutes (*15m*) | 1 minute                  | 10:00, 10:01, 10:02        |
+| The last hour (*1hr*)       | 1 minute                  | 10:00, 10:01, 10:02        |
+| The last 24 hours (*24hr*)  | 20 minutes                | 10:00, 10:20, 10:40, 11:00 |
 
 To zoom in on smaller intervals, select specific ranges in a graph.
 
@@ -114,11 +114,11 @@ To zoom in on smaller intervals, select specific ranges in a graph.
 
 The interval between measurements then changes based on the range you choose.
 
-| View            | Time between measurements |
-| :-------------- | :------------------------ |
-| < 2 hours       | 1 minute                  |
-| 2 to 5 hours    | 5 minutes                 |
-| 5 to 8/24 hours | 20 minutes                |
+| View          | Time between measurements |
+| :------------ | :------------------------ |
+| < 2 hours     | 1 minute                  |
+| 2 to 5 hours  | 5 minutes                 |
+| 5 to 24 hours | 20 minutes                |
 
 ## Deployments
 
