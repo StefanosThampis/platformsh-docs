@@ -30,14 +30,11 @@ Upon request, {{% vendor/name %}} can provide you with a Reason for Outage repor
 and informs law enforcement in the event of an attempted malicious intrusion.
 Depending on the type of incident, the root cause analysis may be conducted by law enforcement rather than {{% vendor/name %}} personnel.
 
-{{% vendor/name %}} endeavors to notify affected customers within 24 hours in case of a personal data breach
-and 72 hours in case of a project data breach.
+{{% vendor/name %}} endeavors to notify affected customers without undue delay in case of a security incident affecting personal data.
 
 <!-- vale Vale.Spelling = NO -->
 <!-- Spelling off because of the French-->
-Under the European General Data Protection Regulation (GPDR),
-{{% vendor/name %}} is required to notify its supervising authority within 72 hours of a discovered breach
-that may result in risk to the rights and freedoms of individuals.
+
 The supervising authority for {{% vendor/name %}} is the French [Commission Nationale de l'Informatique et des Libertés](https://www.cnil.fr/).
 <!-- vale Vale.Spelling = YES -->
 
